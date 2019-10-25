@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "HolisticusAPI2.Desconto.Domain/1.0.0": {
+        "runtime": {
+          "HolisticusAPI2.Desconto.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HolisticusAPI2.Desconto.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

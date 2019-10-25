@@ -1,0 +1,11 @@
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.deps.json
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.pdb
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Domain.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Domain.pdb
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.csprojAssemblyReference.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.AssemblyInfoInputs.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.AssemblyInfo.cs
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.csproj.CopyComplete
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.Log\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.Log.pdb

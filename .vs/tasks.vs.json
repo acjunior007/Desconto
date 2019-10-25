@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HolisticusAPI2.Desconto",
+      "appliesTo": "HolisticusAPI2.Desconto.Host/",
+      "type": "launch"
+    }
+  ]
+}

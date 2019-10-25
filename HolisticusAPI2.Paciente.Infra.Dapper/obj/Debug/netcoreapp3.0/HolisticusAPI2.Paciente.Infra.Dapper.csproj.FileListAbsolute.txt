@@ -1,0 +1,4 @@
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Paciente.Infra.Dapper\bin\Debug\netcoreapp3.0\HolisticusAPI2.Paciente.Infra.Dapper.deps.json
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Paciente.Infra.Dapper\bin\Debug\netcoreapp3.0\HolisticusAPI2.Paciente.Infra.Dapper.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Paciente.Infra.Dapper\obj\Debug\netcoreapp3.0\HolisticusAPI2.Paciente.Infra.Dapper.AssemblyInfoInputs.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Paciente.Infra.Dapper\obj\Debug\netcoreapp3.0\HolisticusAPI2.Paciente.Infra.Dapper.AssemblyInfo.cs

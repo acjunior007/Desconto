@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Paciente.Infra.Config\\HolisticusAPI2.Paciente.Infra.Config.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\HolisticusAPI2.Desconto.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\HolisticusAPI2.Desconto.Domain.csproj",
+        "projectName": "HolisticusAPI2.Desconto.Domain",
+        "projectPath": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\HolisticusAPI2.Desconto.Domain.csproj",
+        "packagesPath": "C:\\Users\\consultor004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\consultor004\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azimutemed/_packaging/azimutemed@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Paciente.Infra.Config\\HolisticusAPI2.Paciente.Infra.Config.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Paciente.Infra.Config\\HolisticusAPI2.Paciente.Infra.Config.csproj",
+        "projectName": "HolisticusAPI2.Paciente.Infra.Config",
+        "projectPath": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Paciente.Infra.Config\\HolisticusAPI2.Paciente.Infra.Config.csproj",
+        "packagesPath": "C:\\Users\\consultor004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Paciente.Infra.Config\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\consultor004\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azimutemed/_packaging/azimutemed@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\HolisticusAPI2.Desconto.Domain.csproj": {
+                "projectPath": "C:\\Users\\consultor004\\Azimute\\Desconto\\HolisticusAPI2.Desconto.Domain\\HolisticusAPI2.Desconto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

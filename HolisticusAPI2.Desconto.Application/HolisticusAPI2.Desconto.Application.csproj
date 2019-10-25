@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AzimuteLib.HTTPBase" Version="1.0.0" />
+    <PackageReference Include="AzimuteLib.Log" Version="1.0.0" />
+    <PackageReference Include="FluentValidation" Version="8.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Domain\HolisticusAPI2.Desconto.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

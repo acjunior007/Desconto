@@ -1,0 +1,8 @@
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\bin\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.deps.json
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\bin\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\bin\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.pdb
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\obj\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.csprojAssemblyReference.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\obj\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.AssemblyInfoInputs.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\obj\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.AssemblyInfo.cs
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\obj\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Application\obj\Debug\netstandard2.1\HolisticusAPI2.Desconto.Application.pdb

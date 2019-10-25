@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Domain\HolisticusAPI2.Desconto.Domain.csproj" />
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Infra.SQLServer\HolisticusAPI2.Desconto.Infra.SQLServer.csproj" />
+  </ItemGroup>
+
+</Project>

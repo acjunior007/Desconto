@@ -1,0 +1,11 @@
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.deps.json
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.pdb
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Domain.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\bin\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Domain.pdb
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.csprojAssemblyReference.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.csproj.CopyComplete
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.dll
+C:\Users\consultor004\Azimute\Desconto\HolisticusAPI2.Desconto.Infra.SQLServer\obj\Debug\netcoreapp3.0\HolisticusAPI2.Desconto.Infra.SQLServer.pdb

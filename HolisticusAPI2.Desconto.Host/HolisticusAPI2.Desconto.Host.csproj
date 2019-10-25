@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AzimuteLib.Config" Version="1.0.0" />
+    <PackageReference Include="AzimuteLib.Log" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Application\HolisticusAPI2.Desconto.Application.csproj" />
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Infra.Log\HolisticusAPI2.Desconto.Infra.Log.csproj" />
+    <ProjectReference Include="..\HolisticusAPI2.Desconto.Infra.SQLServer\HolisticusAPI2.Desconto.Infra.SQLServer.csproj" />
+    <ProjectReference Include="..\HolisticusAPI2.Paciente.Infra.Config\HolisticusAPI2.Paciente.Infra.Config.csproj" />
+    <ProjectReference Include="..\HolisticusAPI2.Paciente.Infra.File\HolisticusAPI2.Paciente.Infra.File.csproj" />
+  </ItemGroup>
+
+</Project>
